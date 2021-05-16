@@ -1,5 +1,5 @@
 import React from 'react';
-import react from '../../assets/icons/react.svg'
+// import react from '../../assets/icons/react.svg'
 import SkillBar from '../SkillBar/SkillBar';
 import c from '../../assets/icons/c-programming-48.png'
 import C from '../../assets/icons/icons8-c++-50.png'
